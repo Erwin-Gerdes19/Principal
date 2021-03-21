@@ -6,5 +6,8 @@ body
 }
 #container
 {
-font-family: 'Courier New', Courier, monospace;
+font-family: 'Arial';
+border: 1ch;
+border-color: black;
+
 }
